@@ -21,12 +21,8 @@ const Home = () => {
         });
     
         if (response.status ==200) {
-          console.log(response)
-          console.log(response.status)
+          
           const data = response.data;
-
-          console.log(data)
-          console.log(data.status)
           if (data.status) {
             setNotes(data.data);
           } else {
