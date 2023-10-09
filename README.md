@@ -22,11 +22,11 @@ Features
 
 - Logout: Users can securely log out from their accounts.
 
-##Deployment
+## Deployment
 The backend of this project is deployed on Render, and the frontend is deployed on Netlify.
 
-##Backend Live Link: https://assba.onrender.com
-##Frontend Live Link: https://ephemeral-sorbet-7166ba.netlify.app/
+# Backend Live Link: https://assba.onrender.com
+# Frontend Live Link: https://ephemeral-sorbet-7166ba.netlify.app/
 ## Technologies Used
 - Frontend: React.js, Axios, Bootstrap
 - Backend: Node.js, Express.js, MongoDB, Mongoose
@@ -43,7 +43,7 @@ Follow these steps to get your project up and running.
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/your-repo.git
 
 ## Install Backend Dependencies
