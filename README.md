@@ -49,11 +49,9 @@ git clone https://github.com/your-username/your-repo.git
 ## Install Backend Dependencies
 Navigate to the backend directory and install the required dependencies
 
-<pre>
-  
+<pre> 
 cd backend
-
-  </pre>
+</pre>
   
 ### Create an .env file in the backend directory with the following environment variables:
 
@@ -73,6 +71,7 @@ DB_CONNECTION=your-database-connection-url
 <pre>
 npm install
 </pre>
+
 ## Deploy Backend on Render
 
 - Create an account on Render if you don't have one.
@@ -83,17 +82,16 @@ npm install
 - Navigate to the frontend directory and install the required dependencies.
 
   <pre>
-    
- cd frontend
-npm install
+  cd frontend
+  npm install
 </pre>
 
 ## Build the Frontend
 
-    <pre>
-      
+<pre>
  npm run build
 </pre>
+
 - Deploy Frontend on Netlify
 - Create an account on Netlify if you don't have one.
 - Connect your GitHub repository to Netlify.
