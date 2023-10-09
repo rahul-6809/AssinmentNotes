@@ -49,8 +49,8 @@ git clone https://github.com/your-username/your-repo.git
 ## Install Backend Dependencies
 Navigate to the backend directory and install the required dependencies
 
-# cd backend
-# npm install
+### cd backend
+### npm install
 
 ## Deploy Backend on Render
 
@@ -61,12 +61,12 @@ Navigate to the backend directory and install the required dependencies
 - Install Frontend Dependencies
 - Navigate to the frontend directory and install the required dependencies.
 
-# cd frontend
-# npm install
+### cd frontend
+### npm install
 
 ## Build the Frontend
 
-# npm run build
+### npm run build
 
 - Deploy Frontend on Netlify
 - Create an account on Netlify if you don't have one.
