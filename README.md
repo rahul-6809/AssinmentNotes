@@ -51,7 +51,7 @@ Navigate to the backend directory and install the required dependencies
 
 <pre>
   
-### cd backend
+cd backend
 
   </pre>
   
@@ -71,7 +71,7 @@ DB_CONNECTION=your-database-connection-url
 </pre>
 
 <pre>
-### npm install
+npm install
 </pre>
 ## Deploy Backend on Render
 
@@ -84,15 +84,15 @@ DB_CONNECTION=your-database-connection-url
 
   <pre>
     
-### cd frontend
-### npm install
+ cd frontend
+npm install
 </pre>
 
 ## Build the Frontend
 
     <pre>
       
-### npm run build
+ npm run build
 </pre>
 - Deploy Frontend on Netlify
 - Create an account on Netlify if you don't have one.
