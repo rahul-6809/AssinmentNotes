@@ -25,9 +25,9 @@ Logout: Users can securely log out from their accounts.
 Deployment
 The backend of this project is deployed on Render, and the frontend is deployed on Netlify.
 
-Backend Live Link: https://your-backend.onrender.com
-Frontend Live Link: https://your-frontend.netlify.app
-Technologies Used
+#Backend Live Link: https://assba.onrender.com
+#Frontend Live Link: https://ephemeral-sorbet-7166ba.netlify.app/
+#Technologies Used
 Frontend: React.js, Axios, Bootstrap
 Backend: Node.js, Express.js, MongoDB, Mongoose
 Authentication: JSON Web Tokens (JWT)
