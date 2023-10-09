@@ -50,6 +50,23 @@ git clone https://github.com/your-username/your-repo.git
 Navigate to the backend directory and install the required dependencies
 
 ### cd backend
+
+Create an .env file in the backend directory with the following environment variables:
+
+PORT - Port for the backend server.
+SECRET_KEY - Secret key for JWT authentication.
+DB_CONNECTION - Database connection URL.
+Example .env file:
+
+<pre>
+```
+PORT=3000
+SECRET_KEY=your-secret-key
+DB_CONNECTION=your-database-connection-url
+```
+</pre>
+
+
 ### npm install
 
 ## Deploy Backend on Render
