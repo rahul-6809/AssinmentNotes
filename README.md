@@ -49,26 +49,30 @@ git clone https://github.com/your-username/your-repo.git
 ## Install Backend Dependencies
 Navigate to the backend directory and install the required dependencies
 
+<pre>
+  
 ### cd backend
 
-Create an .env file in the backend directory with the following environment variables:
+  </pre>
+  
+### Create an .env file in the backend directory with the following environment variables:
 
-PORT - Port for the backend server.
-SECRET_KEY - Secret key for JWT authentication.
-DB_CONNECTION - Database connection URL.
-Example .env file:
+- PORT - Port for the backend server.
+- SECRET_KEY - Secret key for JWT authentication.
+- DB_CONNECTION - Database connection URL.
+- Example .env file:
 
 <pre>
-```
+  
 PORT=3000
 SECRET_KEY=your-secret-key
 DB_CONNECTION=your-database-connection-url
-```
+
 </pre>
 
-
+<pre>
 ### npm install
-
+</pre>
 ## Deploy Backend on Render
 
 - Create an account on Render if you don't have one.
@@ -78,13 +82,18 @@ DB_CONNECTION=your-database-connection-url
 - Install Frontend Dependencies
 - Navigate to the frontend directory and install the required dependencies.
 
+  <pre>
+    
 ### cd frontend
 ### npm install
+</pre>
 
 ## Build the Frontend
 
+    <pre>
+      
 ### npm run build
-
+</pre>
 - Deploy Frontend on Netlify
 - Create an account on Netlify if you don't have one.
 - Connect your GitHub repository to Netlify.
